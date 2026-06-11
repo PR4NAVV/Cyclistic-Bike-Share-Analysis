@@ -30,7 +30,7 @@ The following steps were performed:
 
 ## Dashboard
 
-Insert dashboard screenshot here.
+![Dashboard](dashboard.png)
 
 ## Key Findings
 
